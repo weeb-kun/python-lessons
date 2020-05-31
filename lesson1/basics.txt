@@ -1,0 +1,14 @@
+what is python?
+to have instructions that your computer can execute
+
+java, c - compiler will compile the source code into an executable(e.g. binary, bytecode)
+
+python - interpreted language - interpreter will take the source code, will try to understand the source code, and will execute it.
+
+in python, source code -> execute it
+
+in compiled languages - source code -> binary/bytecode -> run the executable
+
+python source code is in files with extension .py
+
+with compiled language, you can "hide" the source code, by just distributing the binary(.exe), hard to decompile from binary.
